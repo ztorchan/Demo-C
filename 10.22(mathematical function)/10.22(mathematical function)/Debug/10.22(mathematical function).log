@@ -1,0 +1,3 @@
+﻿  源.c
+d:\demo\10.22(mathematical function)\10.22(mathematical function)\源.c(14): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+  10.22(mathematical function).vcxproj -> D:\Demo\10.22(mathematical function)\Debug\10.22(mathematical function).exe

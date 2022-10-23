@@ -1,0 +1,4 @@
+﻿  源.c
+d:\demo\10.25\10.25\源.c(6): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\demo\10.25\10.25\源.c(7): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  10.25.vcxproj -> D:\Demo\10.25\Debug\10.25.exe

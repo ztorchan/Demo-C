@@ -1,0 +1,3 @@
+﻿  源.c
+d:\demo\司机作业\司机作业\源.c(6): warning C4305: “初始化”: 从“double”到“float”截断
+  司机作业.vcxproj -> D:\Demo\司机作业\Debug\司机作业.exe

@@ -1,0 +1,9 @@
+﻿  源.c
+d:\demo\12.17(file stream)\12.17(file stream)\源.c(11): warning C4013: “gets”未定义；假设外部返回 int
+d:\demo\12.17(file stream)\12.17(file stream)\源.c(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\demo\12.17(file stream)\12.17(file stream)\源.c(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\demo\12.17(file stream)\12.17(file stream)\源.c(7): warning C4101: “c”: 未引用的局部变量
+d:\demo\12.17(file stream)\12.17(file stream)\源.c(6): warning C4101: “outf”: 未引用的局部变量
+  12.17(FILE STREAM).vcxproj -> D:\Demo\12.17(FILE STREAM)\Debug\12.17(FILE STREAM).exe

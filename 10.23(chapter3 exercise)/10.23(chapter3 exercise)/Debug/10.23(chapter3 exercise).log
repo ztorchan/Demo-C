@@ -1,0 +1,6 @@
+﻿  源.c
+d:\demo\10.23(chapter3 exercise)\10.23(chapter3 exercise)\源.c(14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demo\10.23(chapter3 exercise)\10.23(chapter3 exercise)\源.c(15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demo\10.23(chapter3 exercise)\10.23(chapter3 exercise)\源.c(19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demo\10.23(chapter3 exercise)\10.23(chapter3 exercise)\源.c(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  10.23(chapter3 exercise).vcxproj -> D:\Demo\10.23(chapter3 exercise)\Debug\10.23(chapter3 exercise).exe

@@ -1,0 +1,4 @@
+﻿  源.c
+d:\demo\experiment\experiment\源.c(6): warning C4047: “函数”:“const char *const ”与“int”的间接级别不同
+d:\demo\experiment\experiment\源.c(6): warning C4024: “printf”: 形参和实参 1 的类型不同
+  experiment.vcxproj -> D:\Demo\experiment\Debug\experiment.exe
